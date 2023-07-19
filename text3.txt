@@ -1,7 +1,7 @@
-Common VIM user L 
-Nano on top always
+Man I wish I could have used nano for this
+
 
 <(*_*<)
 
 *Emacs users are typing*
-
+*So are vim users*
